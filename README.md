@@ -16,7 +16,7 @@ My LeetCode study notes and solutions
   - 误以为需要记录买入点，陷入复杂状态判断，忽略了**利润可拆分为所有正差价之和**的本质。
 - **收获与改进**：
   - 通过题解理解了贪心的核心：**局部最优（每天赚就卖） ⇒ 全局最优（总利润最大）**
-  - 已整理详细笔记（见 [`array/买股票的最佳时机II.md`](https://github.com/Gelise436b/leetcode-notes/blob/main/array/%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BAII.md)）
+  - 已整理详细笔记（见 [买卖股票的最佳时机 II](https://github.com/Gelise436b/leetcode-notes/blob/main/array/%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BAII.md)）
 - **明日计划**：
   - 手写 [122] 的 C++ 实现，默写一遍
   - 开始 Day 2：（217, 136, 350）
