@@ -44,7 +44,7 @@ My LeetCode study notes and solutions
 - **收获与改进**：  
   - 深刻体会到**异或运算是解决“唯一出现”类问题的利器**，简洁且 O(1) 空间。  
   - 意识到 STL 容器（尤其是 `unordered_set` 和 `unordered_map`）的常用接口需要定期巩固。  
-  - 已整理笔记：[存在重复元素]([https://github.com/Gelise436b/leetcode-notes/blob/main/hash/%E5%8F%AA%E5%87%BA%E7%8E%B0%E4%B8%80%E6%AC%A1%E7%9A%84%E6%95%B0%E5%AD%97.md]
+  - 已整理笔记：([存在重复元素](https://github.com/Gelise436b/leetcode-notes/blob/main/array/%E5%AD%98%E5%9C%A8%E9%87%8D%E5%A4%8D%E5%85%83%E7%B4%A0.md))
 
 - **明日计划**：  
   - 完成新题：[344] 反转字符串、[151] 反转字符串中的单词、[88] 合并两个有序数组  
