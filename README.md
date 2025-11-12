@@ -166,7 +166,7 @@ My LeetCode study notes and solutions
     - `tolower(c)/toupper(c)`：安全进行大小写转换。  
   - 意识到 **复杂字符串解析题需分阶段建模**（如 atoi 的“跳空格→读符号→累加数字→防溢出”四步），避免试图一步到位。  
   - 认清了 **KMP 是字符串匹配的核心算法之一**，虽可暂时用库函数过关，但必须列入后续重点攻克清单。
-  - 已整理笔记([验证回文串](https://github.com/Gelise436b/leetcode-notes/blob/main/string/%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)),([字符串转换整数](https://github.com/Gelise436b/leetcode-notes/blob/main/string/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0.md)),([找出字符串中第一个匹配的下标项]())
+  - 已整理笔记([验证回文串](https://github.com/Gelise436b/leetcode-notes/blob/main/string/%E9%AA%8C%E8%AF%81%E5%9B%9E%E6%96%87%E4%B8%B2.md)),([字符串转换整数](https://github.com/Gelise436b/leetcode-notes/blob/main/string/%E5%AD%97%E7%AC%A6%E4%B8%B2%E8%BD%AC%E6%8D%A2%E6%95%B4%E6%95%B0.md)),([找出字符串中第一个匹配的下标项](https://github.com/Gelise436b/leetcode-notes/blob/main/string/%E6%89%BE%E5%87%BA%E5%AD%97%E7%AC%A6%E4%B8%B2%E4%B8%AD%E7%AC%AC%E4%B8%80%E4%B8%AA%E5%8C%B9%E9%85%8D%E9%A1%B9%E7%9A%84%E4%B8%8B%E6%A0%87.md))
 
 - **明日计划**：  
   - **手写重做今日三题（125, 8, 28）**，重点练习：  
