@@ -201,7 +201,7 @@ My LeetCode study notes and solutions
   - 强化了**多字符串处理的“矩阵化”思维**：对于涉及多个等长/变长字符串的公共操作（如前缀、列对齐），尝试将其视为二维结构，常能简化问题。  
   - 深刻认识到**链表操作中“修改节点内容”与“修改指针指向”的区别**：尤其在受限条件下（如无前驱指针），需灵活运用值拷贝实现逻辑删除。  
   - 已完成 LeetCode 初级算法 · 字符串模块全部内容，标志着字符串基础处理能力初步成型。
-  - 已整理笔记([外观数列](https://github.com/Gelise436b/leetcode-notes/blob/main/string/%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97.md)),([最长公共前缀](https://github.com/Gelise436b/leetcode-notes/blob/main/string/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.md))
+  - 已整理笔记([外观数列](https://github.com/Gelise436b/leetcode-notes/blob/main/string/%E5%A4%96%E8%A7%82%E6%95%B0%E5%88%97.md)),([最长公共前缀](https://github.com/Gelise436b/leetcode-notes/blob/main/string/%E6%9C%80%E9%95%BF%E5%85%AC%E5%85%B1%E5%89%8D%E7%BC%80.md))([删除链表中的节点](https://github.com/Gelise436b/leetcode-notes/blob/main/LinkedList/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E4%B8%AD%E7%9A%84%E8%8A%82%E7%82%B9.md))
 
 - **明日计划**：  
   - **复习今日三题（38, 14, 237）**，重点练习：  
