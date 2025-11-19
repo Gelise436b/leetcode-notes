@@ -229,7 +229,7 @@ My LeetCode study notes and solutions
   - 重建了**链表基本操作的直觉**：头插法、尾插法、指针重连等是链表题的原子操作，必须像背乘法表一样熟练。  
   - 强化了**简洁边界处理意识**：对于“剩余部分拼接”类问题，善用 `a ? a : b` 或 `if (a) p->next = a; else p->next = b;` 可大幅简化逻辑。  
   - 已系统覆盖 LeetCode 初级算法 · 链表模块的核心题型（删除、反转、合并），为后续复杂链表问题打下坚实基础。
-  - 已整理笔记:([删除链表的倒数第n个节点](https://github.com/Gelise436b/leetcode-notes/blob/main/LinkedList/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACn%E4%B8%AA%E8%8A%82%E7%82%B9.md)),([反转链表](https://github.com/Gelise436b/leetcode-notes/blob/main/LinkedList/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)),([合并两个有序数组]())
+  - 已整理笔记:([删除链表的倒数第n个节点](https://github.com/Gelise436b/leetcode-notes/blob/main/LinkedList/%E5%88%A0%E9%99%A4%E9%93%BE%E8%A1%A8%E7%9A%84%E5%80%92%E6%95%B0%E7%AC%ACn%E4%B8%AA%E8%8A%82%E7%82%B9.md)),([反转链表](https://github.com/Gelise436b/leetcode-notes/blob/main/LinkedList/%E5%8F%8D%E8%BD%AC%E9%93%BE%E8%A1%A8.md)),([合并两个有序链表](https://github.com/Gelise436b/leetcode-notes/blob/main/LinkedList/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E9%93%BE%E8%A1%A8.md))
 
 - **明日计划**：  
   - **复习今日三题（19, 206, 21）**，重点练习：  
