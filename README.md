@@ -266,7 +266,7 @@ My LeetCode study notes and solutions
   - **成功开启树章节**，初步感知递归与层序遍历的双重威力，明确树问题“自顶向下”与“自底向上”的思考路径；  
   - 意识到**算法不是孤立技巧，而是可组合的积木**：快慢指针+反转=回文检测，递归+max=最大深度，未来需强化“识别子问题 → 调用已有模块”的能力；  
   - 重新锚定**基础遍历算法的核心地位**：DFS/BFS 不仅是树的基础，更是图论、状态搜索等问题的起点，必须形成肌肉记忆。
-  - 已整理笔记([回文链表](https://github.com/Gelise436b/leetcode-notes/blob/main/LinkedList/%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)),([二叉树的最大深度]())
+  - 已整理笔记([回文链表](https://github.com/Gelise436b/leetcode-notes/blob/main/LinkedList/%E5%9B%9E%E6%96%87%E9%93%BE%E8%A1%A8.md)),([二叉树的最大深度](https://github.com/Gelise436b/leetcode-notes/blob/main/tree/%E4%BA%8C%E5%8F%89%E6%A0%91%E7%9A%84%E6%9C%80%E5%A4%A7%E6%B7%B1%E5%BA%A6.md))
 
 - **明日计划**：  
   - **重点复习今日薄弱环节**：  
