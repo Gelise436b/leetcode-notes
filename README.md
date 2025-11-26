@@ -355,7 +355,7 @@ My LeetCode study notes and solutions
     - 原地修改 → 逆向操作防覆盖；  
     - 构造平衡树 → 中点分治；  
   - **认识到“简洁即高效”**：最优解往往规避冗余操作（如数组拷贝、线性扫描），未来需优先评估时间/空间复杂度，再动手编码。
-  - 已整理笔记([将有序数组转换为二叉搜索树](https://github.com/Gelise436b/leetcode-notes/blob/main/tree/%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)),([合并两个有序数组](https://github.com/Gelise436b/leetcode-notes/blob/main/Sorting%26earching/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md)),([第一个错误的版本]())
+  - 已整理笔记([将有序数组转换为二叉搜索树](https://github.com/Gelise436b/leetcode-notes/blob/main/tree/%E5%B0%86%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84%E8%BD%AC%E6%8D%A2%E4%B8%BA%E4%BA%8C%E5%8F%89%E6%90%9C%E7%B4%A2%E6%A0%91.md)),([合并两个有序数组](https://github.com/Gelise436b/leetcode-notes/blob/main/Sorting%26earching/%E5%90%88%E5%B9%B6%E4%B8%A4%E4%B8%AA%E6%9C%89%E5%BA%8F%E6%95%B0%E7%BB%84.md)),([第一个错误的版本](https://github.com/Gelise436b/leetcode-notes/blob/main/Sorting%26earching/%E7%AC%AC%E4%B8%80%E4%B8%AA%E9%94%99%E8%AF%AF%E7%9A%84%E7%89%88%E6%9C%AC.md))
 
 - **明日计划**：  
   - **巩固今日三题**：  
