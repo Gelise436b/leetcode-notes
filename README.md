@@ -397,7 +397,7 @@ My LeetCode study notes and solutions
     - 若状态仅依赖前 k 项（如 [70] 依赖前两项），可用滚动变量将空间压至 O(1)；  
     - 此技巧不仅节省内存，更反向验证了状态设计的简洁性；  
   - **认识到“简单题是思想的浓缩”**：[70][121][53] 均无复杂数据结构，却分别承载了**计数型 DP、贪心特例、序列型 DP** 的核心范式，未来需以“解剖麻雀”心态精读每道入门题。
-  - 已整理笔记([爬楼梯](https://github.com/Gelise436b/leetcode-notes/blob/main/DynamicProgram/%E7%88%AC%E6%A5%BC%E6%A2%AF.md)),([买卖股票的最佳时机](https://github.com/Gelise436b/leetcode-notes/blob/main/DynamicProgram/%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)),([最大子数组和]())
+  - 已整理笔记([爬楼梯](https://github.com/Gelise436b/leetcode-notes/blob/main/DynamicProgram/%E7%88%AC%E6%A5%BC%E6%A2%AF.md)),([买卖股票的最佳时机](https://github.com/Gelise436b/leetcode-notes/blob/main/DynamicProgram/%E4%B9%B0%E5%8D%96%E8%82%A1%E7%A5%A8%E7%9A%84%E6%9C%80%E4%BD%B3%E6%97%B6%E6%9C%BA.md)),([最大子数组和](https://github.com/Gelise436b/leetcode-notes/blob/main/DynamicProgram/%E6%9C%80%E5%A4%A7%E5%AD%90%E6%95%B0%E7%BB%84%E5%92%8C.md))
 
 - **明日计划**：  
   - **巩固今日三题**：  
