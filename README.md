@@ -439,7 +439,7 @@ My LeetCode study notes and solutions
     - 建立**现代 C++ 语法工具箱**：系统学习 C++11/14/17/20/23 关键特性（如 `emplace`、`auto&&`、`this` 显式对象参数），避免因语法障碍掩盖算法思想；  
   - **专题衔接意识深化**：  
     - 动态规划聚焦**状态演化逻辑**，设计问题强调**系统封装能力**，而即将开启的数学专题将回归**数值性质与计算效率**——需灵活切换“逻辑推导”、“工程实现”、“数学洞察”三种思维模式。
-    - 已整理笔记([打家劫舍](https://github.com/Gelise436b/leetcode-notes/blob/main/DynamicProgram/%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md)),([打乱数组](https://github.com/Gelise436b/leetcode-notes/blob/main/DesignIssue/%E6%89%93%E4%B9%B1%E6%95%B0%E7%BB%84.md)),([最小栈]())
+    - 已整理笔记([打家劫舍](https://github.com/Gelise436b/leetcode-notes/blob/main/DynamicProgram/%E6%89%93%E5%AE%B6%E5%8A%AB%E8%88%8D.md)),([打乱数组](https://github.com/Gelise436b/leetcode-notes/blob/main/DesignIssue/%E6%89%93%E4%B9%B1%E6%95%B0%E7%BB%84.md)),([最小栈](https://github.com/Gelise436b/leetcode-notes/blob/main/DesignIssue/%E6%9C%80%E5%B0%8F%E6%A0%88.md))
 
 
 - **明日计划**：  
