@@ -487,7 +487,7 @@ My LeetCode study notes and solutions
   - **专题衔接能力增强**：  
     - 数学题非孤立计算，而是**动态规划**（状态转移）、**设计问题**（接口封装）的底层支撑；  
     - 如质数筛法可嵌入加密设计，幂判定可优化哈希函数——需建立“**数学为用，不止于算**”的认知。
-    - 已整理笔记([计算质数](https://github.com/Gelise436b/leetcode-notes/blob/main/math/%E8%AE%A1%E7%AE%97%E8%B4%A8%E6%95%B0.md)),([3的幂]())
+    - 已整理笔记([计算质数](https://github.com/Gelise436b/leetcode-notes/blob/main/math/%E8%AE%A1%E7%AE%97%E8%B4%A8%E6%95%B0.md)),([3的幂](https://github.com/Gelise436b/leetcode-notes/blob/main/math/3%E7%9A%84%E5%B9%82.md))
 
 - **明日计划**：  
   - **巩固今日核心难点**：  
