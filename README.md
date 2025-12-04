@@ -534,7 +534,7 @@ My LeetCode study notes and solutions
   - **专题衔接能力延伸**：  
     - 位运算为**哈希设计**（位掩码分桶）、**状态压缩 DP**（状态编码）提供底层支持；  
     - 进制转换思维可迁移至**网络协议解析**（字节序处理）、**加密算法**（位混淆）——需持续构建“**位即资源**”的认知。
-    - 已整理笔记([汉明距离]())
+    - 已整理笔记([汉明距离](https://github.com/Gelise436b/leetcode-notes/blob/main/others/%E6%B1%89%E6%98%8E%E8%B7%9D%E7%A6%BB.md))
       
 
 - **明日计划**：  
