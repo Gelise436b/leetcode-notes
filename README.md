@@ -584,7 +584,7 @@ My LeetCode study notes and solutions
   - **工程严谨性提升**：  
     - [190] 中明确使用 `uint32_t` 避免符号位干扰，体现**类型即契约**的工程素养；  
     - [20] 中提前校验字符串长度奇偶性，展现**防御性编程**意识；
-    - 已整理笔记([颠倒二进制位]())
+    - 已整理笔记([颠倒二进制位](https://github.com/Gelise436b/leetcode-notes/blob/main/others/%E9%A2%A0%E5%80%92%E4%BA%8C%E8%BF%9B%E5%88%B6%E4%BD%8D.md))
     → 优雅代码 = 数学正确性 × 工程鲁棒性。
 
 
