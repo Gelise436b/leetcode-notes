@@ -1,7 +1,7 @@
 # leetcode-notes
 My LeetCode study notes and solutions
 ## ✅ 已完成：LeetBook 初级算法（2025年12月8日）
-
+后续更新在新仓库[灵神题单](https://github.com/Gelise436b/endless-cheng-leetcode/blob/main/README.md)
 > **LeetBook 初级算法内容精炼，适合有编程基础的同学快速了解常见算法题型。但因题目数量有限、难度偏低，仅刷完本专栏可能不足以应对 LeetCode 周赛等实战场景。若目标是建立对算法题类型的初步认知，这是一份非常优质的入门题单。**
 ## 📅 学习日志
 ## 📚 目录（点击跳转）
